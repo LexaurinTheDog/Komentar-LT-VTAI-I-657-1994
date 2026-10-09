@@ -186,9 +186,9 @@ Straipsnio 2 ir 3 dalių nesilaikymas yra administracinis pažeidimas, už kurį
 
 > 1. Remiantis vartotojų ir pardavėjų ar paslaugų teikėjų rašytiniu susitarimu, vartojimo ginčus ne teismo tvarka gali nagrinėti kiti vartojimo ginčų neteisminio sprendimo subjektai:
 >
-> 1) nuolatinė arbitražo institucija, veikianti pagal Lietuvos Respublikos komercinio arbitražo įstatymą, įrašyta į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį;
+> 1) nuolatinė arbitražo institucija, veikianti pagal Lietuvos Respublikos komercinio arbitražo įstatymą, įrašyta į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 29² straipsnį;
 >
-> 2) viešasis juridinis asmuo, įrašytas į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį.
+> 2) viešasis juridinis asmuo, įrašytas į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 29² straipsnį.
 >
 > 2. Remiantis vartotojų ir pardavėjų ar paslaugų teikėjų rašytiniu susitarimu, vartojimo ginčus ne teismo tvarka taip pat gali nagrinėti mediatoriai Lietuvos Respublikos mediacijos įstatymo nustatyta tvarka.
 >
@@ -248,7 +248,7 @@ Straipsnis taikomas visiems vartojimo ginčų neteisminio sprendimo subjektams �
 >
 > 1) savo pavadinimą, kontaktinius duomenis, įskaitant pašto adresą ir elektroninio pašto adresą;
 >
-> 2) informaciją, kad subjektas yra įtrauktas į šio įstatymo 292 straipsnyje nurodytą vartojimo ginčų neteisminio sprendimo subjektų sąrašą;
+> 2) informaciją, kad subjektas yra įtrauktas į šio įstatymo 29² straipsnyje nurodytą vartojimo ginčų neteisminio sprendimo subjektų sąrašą;
 >
 > 3) už vartojimo ginčų neteisminį sprendimą atsakingus fizinius asmenis (vardus, pavardes, pareigas), jų paskyrimo tvarką ir įgaliojimų trukmę;
 >
@@ -426,7 +426,7 @@ Viešosioms institucijoms šie standartai konkretizuojami 23–29 straipsniuose 
 >
 > 3) yra įsiteisėjęs teismo ar arbitražo sprendimas arba yra įsigaliojęs vartojimo ginčų neteisminio sprendimo subjekto sprendimas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu arba sprendimas nutraukti ginčo nagrinėjimą;
 >
-> 4) ginčo šalys sudarė susitarimą dėl vartojimo ginčo perdavimo spręsti kitam vartojimo ginčų neteisminio sprendimo subjektui, įrašytam į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį, po to, kai kilo šis ginčas;
+> 4) ginčo šalys sudarė susitarimą dėl vartojimo ginčo perdavimo spręsti kitam vartojimo ginčų neteisminio sprendimo subjektui, įrašytam į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 29² straipsnį, po to, kai kilo šis ginčas;
 >
 > 5) vartotojas kreipėsi į vartojimo ginčus nagrinėjančią instituciją pasibaigus šio įstatymo 23 straipsnio 2 dalyje nurodytam terminui arba prieš tai nesikreipė į pardavėją ar paslaugų teikėją šio įstatymo 21 straipsnyje nustatyta tvarka;
 >
@@ -528,7 +528,7 @@ Proporcingumo pagrindai (7–8 punktai): ginčo suma mažesnė nei 20 eurų, iš
 >
 > 3) viena iš ginčo šalių dėl nagrinėjamo ginčo kreipiasi į bendrosios kompetencijos teismą;
 >
-> 4) paaiškėja šio įstatymo 233 straipsnio 1 dalies 1–4 ar 8 punkte nurodytos aplinkybės arba paaiškėja, kad ginčas nėra vartojimo ginčas;
+> 4) paaiškėja šio įstatymo 23³ straipsnio 1 dalies 1–4 ar 8 punkte nurodytos aplinkybės arba paaiškėja, kad ginčas nėra vartojimo ginčas;
 >
 > 5) vartotojas atsisako savo reikalavimų;
 >
@@ -668,7 +668,7 @@ Straipsnis yra būtinas, kad neteisminė procedūra būtų reali alternatyva: be
 >
 > 2) sprendimą priima toks pat vartotojų asociacijų ir verslininkus vienijančių asociacijų paskirtų (pasiūlytų) asmenų skaičius, kai vartojimo ginčas nagrinėjamas ir sprendimas dėl jo priimamas kolegialiai;
 >
-> 3) vartojimo ginčų neteisminio sprendimo subjektas atitinka šio įstatymo 22 straipsnio 3 dalyje, 222, 223, 224 ir 225 straipsniuose nustatytus reikalavimus.
+> 3) vartojimo ginčų neteisminio sprendimo subjektas atitinka šio įstatymo 22 straipsnio 3 dalyje, 22², 22³, 22⁴ ir 22⁵ straipsniuose nustatytus reikalavimus.
 >
 > 4. Teisingumo ministerija įvertina, ar vartojimo ginčų neteisminio sprendimo subjektai, kurie pateikė informaciją pagal šio straipsnio 3 dalį, atitinka šio įstatymo nustatytus reikalavimus.
 >
@@ -688,7 +688,7 @@ Straipsnis yra būtinas, kad neteisminė procedūra būtų reali alternatyva: be
 
 29² straipsnis reglamentuoja vartojimo ginčų neteisminio sprendimo subjektų sąrašą – centrinį alternatyvaus ginčų sprendimo kokybės kontrolės instrumentą. 1 dalis nustato, kad sąrašą sudaro ir tvarko Teisingumo ministerija teisingumo ministro nustatyta tvarka, o sąrašas yra viešas ir skelbiamas ministerijos svetainėje.
 
-2 dalis numato supaprastintą įrašymą viešosioms institucijoms (22 straipsnio 1 dalis) – joms pakanka pateikti ministro nustatytą informaciją. 3 dalis nustato kitų subjektų įrašymo jų prašymu sąlygas: pateikta informacija, paritetinė vartotojų ir verslo asociacijų paskirtų asmenų sudėtis, kai sprendžiama kolegialiai, ir atitiktis 22 straipsnio 3 dalies bei 22²–22⁵ straipsnių reikalavimams (šaltinyje straipsnių numeriai rašomi be viršutinio indekso – „222, 223, 224 ir 225“). 4 dalis įpareigoja ministeriją įvertinti atitiktį.
+2 dalis numato supaprastintą įrašymą viešosioms institucijoms (22 straipsnio 1 dalis) – joms pakanka pateikti ministro nustatytą informaciją. 3 dalis nustato kitų subjektų įrašymo jų prašymu sąlygas: pateikta informacija, paritetinė vartotojų ir verslo asociacijų paskirtų asmenų sudėtis, kai sprendžiama kolegialiai, ir atitiktis 22 straipsnio 3 dalies bei 22²–22⁵ straipsnių reikalavimams. 4 dalis įpareigoja ministeriją įvertinti atitiktį.
 
 5 dalis nustato subjektų pareigą kas dvejus metus teikti veiklos ataskaitas ministerijai. 6 dalis numato ministerijos pareigą sąrašą ir kitą informaciją apie Direktyvos 2013/11/ES įgyvendinimą pateikti Europos Komisijai ir informuoti apie pakeitimus. 8 dalis numato periodines ataskaitas Komisijai – iki 2018 m. liepos 9 d. ir vėliau kas ketverius metus – su gerosios praktikos pavyzdžiais, trūkumais, statistika ir rekomendacijomis.
 

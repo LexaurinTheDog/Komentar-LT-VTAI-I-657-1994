@@ -76,9 +76,9 @@
 >
 > 17. Vartojimo ginčas – iš vartojimo sutarties kilęs vartotojo ir pardavėjo ar paslaugų teikėjo nesutarimas dėl fakto ir (ar) teisės klausimų.
 >
-> 18. Vartojimo ginčų neteisminio sprendimo procedūra – vartojimo ginčų sprendimas ne teismo tvarka, kai vartojimo ginčą pagal šio įstatymo 222–225 straipsniuose nustatytus reikalavimus sprendžia vartojimo ginčų neteisminio sprendimo subjektas.
+> 18. Vartojimo ginčų neteisminio sprendimo procedūra – vartojimo ginčų sprendimas ne teismo tvarka, kai vartojimo ginčą pagal šio įstatymo 22²–22⁵ straipsniuose nustatytus reikalavimus sprendžia vartojimo ginčų neteisminio sprendimo subjektas.
 >
-> 19. Vartojimo ginčų neteisminio sprendimo subjektas – šio įstatymo 22 straipsnio 1 dalyje nurodyta vartojimo ginčus nagrinėjanti institucija ar šio įstatymo 222 straipsnyje nurodytas kitas vartojimo ginčų neteisminio sprendimo subjektas, pagal vartojimo ginčų neteisminio sprendimo procedūrą nagrinėjantys vartojimo ginčus ir įrašyti į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį.
+> 19. Vartojimo ginčų neteisminio sprendimo subjektas – šio įstatymo 22 straipsnio 1 dalyje nurodyta vartojimo ginčus nagrinėjanti institucija ar šio įstatymo 22² straipsnyje nurodytas kitas vartojimo ginčų neteisminio sprendimo subjektas, pagal vartojimo ginčų neteisminio sprendimo procedūrą nagrinėjantys vartojimo ginčus ir įrašyti į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 29² straipsnį.
 >
 > 20. Vartotojas – fizinis asmuo, su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekiantis sudaryti ar sudarantis sutartis.
 >
@@ -210,7 +210,7 @@ Katalogas nėra baigtinis – 2 dalis nurodo, kad vartotojai turi ir kitas šio 
 
 4 straipsnis yra blanketinė norma: vartojimo sutarčių ypatumus nustato Civilinis kodeksas. Ši nuostata atspindi sąmoningą lietuviškos vartotojų teisės sistemos pasirinkimą – privatinės teisės institutai (vartojimo sutarčių sudarymas, ikisutartinė informacija, sutarties atsisakymo teisė, nesąžiningos sąlygos, prekių kokybė ir garantijos) koncentruojami kodekse, o šis įstatymas reglamentuoja institucinę ir procedūrinę vartotojų teisių apsaugos dalį.
 
-Iš to kyla kelios praktinės išvados. Pirma, ieškant materialiosios vartotojo teisės pagrindo (pvz., dėl netinkamos kokybės prekės ar sutarties sąlygos sąžiningumo), pirmiausia remiamasi Civiliniu kodeksu; šio įstatymo normos tokiu atveju lemia, kur ir kaip ginčas sprendžiamas (šeštasis skirsnis) ir kokia viešoji atsakomybė gresia verslininkui (40 straipsnis). Antra, įstatymo nuostatos ne kartą tiesiogiai remiasi kodekso straipsniais – pavyzdžiui, 35¹ ir 35² straipsniai dėl nesąžiningų sąlygų kontrolės nukreipia į Civilinio kodekso 6.228⁴ straipsnį (e-TAR šaltinyje dėl prarasto viršutinio indekso rašoma „6.2284“), o 40 straipsnio 1 dalyje sankcijos siejamos su konkrečiomis kodekso nuostatomis. Trečia, kai kurie ypatumai vis dėlto išlieka šiame įstatyme: finansinių paslaugų sutartys, sudaromos ryšio priemonėmis (36–39 straipsniai), ir kokybės garantijos turinio reikalavimai (16 straipsnis). Todėl 4 straipsnis nepaneigia specialiųjų šio įstatymo taisyklių, o tik nurodo pagrindinę vartojimo sutarčių teisės vietą sistemoje.
+Iš to kyla kelios praktinės išvados. Pirma, ieškant materialiosios vartotojo teisės pagrindo (pvz., dėl netinkamos kokybės prekės ar sutarties sąlygos sąžiningumo), pirmiausia remiamasi Civiliniu kodeksu; šio įstatymo normos tokiu atveju lemia, kur ir kaip ginčas sprendžiamas (šeštasis skirsnis) ir kokia viešoji atsakomybė gresia verslininkui (40 straipsnis). Antra, įstatymo nuostatos ne kartą tiesiogiai remiasi kodekso straipsniais – pavyzdžiui, 35¹ ir 35² straipsniai dėl nesąžiningų sąlygų kontrolės nukreipia į Civilinio kodekso 6.228⁴ straipsnį, o 40 straipsnio 1 dalyje sankcijos siejamos su konkrečiomis kodekso nuostatomis. Trečia, kai kurie ypatumai vis dėlto išlieka šiame įstatyme: finansinių paslaugų sutartys, sudaromos ryšio priemonėmis (36–39 straipsniai), ir kokybės garantijos turinio reikalavimai (16 straipsnis). Todėl 4 straipsnis nepaneigia specialiųjų šio įstatymo taisyklių, o tik nurodo pagrindinę vartojimo sutarčių teisės vietą sistemoje.
 
 ### 5 straipsnis — Informacijos pateikimas vartotojams
 
@@ -314,7 +314,7 @@ Pažymėtina, kad 6 straipsnis nėra įtrauktas į 40 straipsnio 1 dalyje išvar
 
 3 dalis nustato išieškotojo informavimo pareigą: kreditoriaus ir išieškotojo duomenys, išieškojimo paslaugų teikimo teisinis pagrindas, prievolės pagrindas, skolos suma, išieškojimo išlaidos ir vartotojo teisė gauti jų pagrindimą, grąžinimo terminas ir sąlygos bei informacija apie asmens duomenų tvarkymą pagal Reglamento (ES) 2016/679 14 straipsnį. 4 dalis informavimo reikalavimus mutatis mutandis taiko ir reikalavimo teisės perleidimo atveju, nebent kiti ES teisę įgyvendinantys įstatymai nustato kitaip.
 
-5 dalis įtvirtina elgesio standartą: garbingas, sąžiningas ir profesionalus veikimas, vartotojų privatumo apsauga ir etiškas bendravimas. Tai yra vertinamosios sąvokos, kurių turinys atskleidžiamas atsižvelgiant į 6 straipsnio sąžiningos verslo praktikos principą. Už 6¹ straipsnio reikalavimų nesilaikymą Valstybinė vartotojų teisių apsaugos tarnyba gali skirti baudą pagal 40 straipsnio 1 dalį (šaltinyje straipsnis nurodomas kaip „61“).
+5 dalis įtvirtina elgesio standartą: garbingas, sąžiningas ir profesionalus veikimas, vartotojų privatumo apsauga ir etiškas bendravimas. Tai yra vertinamosios sąvokos, kurių turinys atskleidžiamas atsižvelgiant į 6 straipsnio sąžiningos verslo praktikos principą. Už 6¹ straipsnio reikalavimų nesilaikymą Valstybinė vartotojų teisių apsaugos tarnyba gali skirti baudą pagal 40 straipsnio 1 dalį.
 
 ### 7 straipsnis — Vartotojų teisių apsaugos įgyvendinimas
 
@@ -388,7 +388,7 @@ Pažymėtina, kad į institucinę sistemą neįtraukti teismai ir privatūs gin�
 >
 > 2) organizuoja, koordinuoja ir kontroliuoja valstybės politikos vartotojų teisių apsaugos srityje įgyvendinimą;
 >
-> 21) rengia vartotojų teisių apsaugos užtikrinimo srities priemones ir (arba) koordinuoja jų rengimą, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+> 2¹) rengia vartotojų teisių apsaugos užtikrinimo srities priemones ir (arba) koordinuoja jų rengimą, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
 >
 > 3) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 >
@@ -414,7 +414,7 @@ Pažymėtina, kad į institucinę sistemą neįtraukti teismai ir privatūs gin�
 
 *e-TAR redakcinė pastaba:* [1 d. 1 p.] Straipsnio punkto pakeitimai: Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362; Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
 
-*e-TAR redakcinė pastaba:* [2 d. 21 p.] Papildyta straipsnio punktu: Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
+*e-TAR redakcinė pastaba:* [2 d. 2¹ p.] Papildyta straipsnio punktu: Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
 
 *e-TAR redakcinė pastaba:* [2 d.] Straipsnio dalies pakeitimai: Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
@@ -424,7 +424,7 @@ Pažymėtina, kad į institucinę sistemą neįtraukti teismai ir privatūs gin�
 
 10 straipsnis paskirsto kompetenciją tarp valstybės ir savivaldybių institucijų. 1 dalis nustato Vyriausybės funkcijas: tvirtinti vartotojų teisių apsaugos priemones nacionalinėse plėtros programose, steigti Valstybinę vartotojų teisių apsaugos tarnybą ir tvirtinti jos nuostatus, įstatymų nustatytais atvejais tvirtinti sutarčių standartines sąlygas, tvirtinti ar įgalioti institucijas tvirtinti atskirų paslaugų rūšių teikimo taisykles. Paskutinė funkcija praktiškai svarbi, nes paslaugų teikimo taisyklės sudaro detalią vartotojų teisių reglamentavimo dalį konkrečiose srityse.
 
-2 dalis Teisingumo ministeriją įtvirtina kaip politiką formuojančią instituciją: ji formuoja valstybės politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, rengia ir koordinuoja vartotojų teisių apsaugos priemones (2¹ punktas, šaltinyje dėl prarasto viršutinio indekso pažymėtas „21)“). Ministerijos vaidmuo matyti ir kitur: teisingumo ministras skiria Tarnybos direktorių (11 straipsnio 4 dalis), tvirtina ginčų komisijų nuostatus (22¹ straipsnio 1 dalis), ministerija tvarko ginčų sprendimo subjektų sąrašą (29² straipsnis).
+2 dalis Teisingumo ministeriją įtvirtina kaip politiką formuojančią instituciją: ji formuoja valstybės politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, rengia ir koordinuoja vartotojų teisių apsaugos priemones (2¹ punktas). Ministerijos vaidmuo matyti ir kitur: teisingumo ministras skiria Tarnybos direktorių (11 straipsnio 4 dalis), tvirtina ginčų komisijų nuostatus (22¹ straipsnio 1 dalis), ministerija tvarko ginčų sprendimo subjektų sąrašą (29² straipsnis).
 
 3–5 dalys reglamentuoja Vartotojų teisių apsaugos tarybą – kolegialią patariamąją, visuomeniniais pagrindais veikiančią instituciją. Jos sudėtis atspindi institucinės sistemos įvairovę: atsakingų valstybės institucijų, ginčus nagrinėjančių institucijų, vartotojų asociacijų ir Lietuvos savivaldybių asociacijos atstovai. Taryba neturi sprendimų priėmimo galių; jos funkcijos – pasiūlymai dėl politikos, institucijų veiklos ir teisės aktų.
 
@@ -500,9 +500,9 @@ Pažymėtina, kad į institucinę sistemą neįtraukti teismai ir privatūs gin�
 >
 > 5) atlikti prekių ir paslaugų kontrolinius pirkimus. Juos atliekant, sprendimo atlikti neplaninį patikrinimą kopija verslininkui turi būti pateikta iš karto po atlikto kontrolinio pirkimo. Atliekant kontrolinius pirkimus gali būti daromas vaizdo ir (ar) garso įrašas. Jeigu atliekant prekių kontrolinį pirkimą pažeidimo požymių nenustatyta, kontrolinio pirkimo metu sumokėti pinigai grąžinami Valstybinei vartotojų teisių apsaugos tarnybai, o prekės – verslininkui. Kontrolinių pirkimų atlikimo tvarką nustato teisingumo ministras;
 >
-> 6) duoti šio įstatymo 491 straipsnyje ir Produktų saugos įstatyme nurodytus privalomus nurodymus pašalinti informaciją ar panaikinti galimybę ją pasiekti Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka;
+> 6) duoti šio įstatymo 49¹ straipsnyje ir Produktų saugos įstatyme nurodytus privalomus nurodymus pašalinti informaciją ar panaikinti galimybę ją pasiekti Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka;
 >
-> 7) taikyti laikinąsias priemones pagal šio įstatymo 441 straipsnį;
+> 7) taikyti laikinąsias priemones pagal šio įstatymo 44¹ straipsnį;
 >
 > 8) sudaryti komisijas, darbo grupes teisės aktams rengti ar kitiems Valstybinės vartotojų teisių apsaugos tarnybos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
 >
