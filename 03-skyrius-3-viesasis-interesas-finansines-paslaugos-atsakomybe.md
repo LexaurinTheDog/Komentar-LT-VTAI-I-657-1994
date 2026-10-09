@@ -186,7 +186,7 @@ Skaidrumas turi kelias funkcijas. Pirma, vartotojai gali sužinoti apie bylas, k
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
-35¹ straipsnis reglamentuoja administracinę vartojimo sutarčių nesąžiningų sąlygų kontrolę, kurią atlieka Valstybinė vartotojų teisių apsaugos tarnyba (12 straipsnio 1 dalies 6 punktas). Materialusis kriterijus yra Civilinio kodekso 6.228⁴ straipsnis (šaltinyje – „6.2284“); šis įstatymas nustato tik procedūrą.
+35¹ straipsnis reglamentuoja administracinę vartojimo sutarčių nesąžiningų sąlygų kontrolę, kurią atlieka Valstybinė vartotojų teisių apsaugos tarnyba (12 straipsnio 1 dalies 6 punktas). Materialusis kriterijus yra Civilinio kodekso 6.228⁴ straipsnis; šis įstatymas nustato tik procedūrą.
 
 Procedūra pradedama motyvuotu vartotojų, vartotojų asociacijų ar valstybės ir savivaldybių institucijų prašymu (1 dalis) arba Tarnybos iniciatyva (2 dalis). Per 30 dienų priimamas motyvuotas sprendimas pradėti ar atsisakyti pradėti nagrinėjimą (3 dalis). Atsisakymo pagrindai (4 dalis): nepašalinti prašymo trūkumai, ne teisiniai motyvai, kompetencijos nebuvimas, jau išnagrinėtos sąlygos ir kitų įstatymų nustatyta tvarka. 5 dalis nustato 3 darbo dienų terminą pranešti sprendimą verslininkui, parengusiam standartines sąlygas, ir pareiškėjui.
 
@@ -210,7 +210,7 @@ Nagrinėjimo terminas – 60 dienų nuo sprendimo pradėti, pratęsiamas ne daug
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
-35² straipsnis įveda išankstinį (ex ante) vartojimo sutarčių standartinių sąlygų vertinimą. 1 dalis nustato, kad Valstybinė vartotojų teisių apsaugos tarnyba tikrina viešųjų vartojimo sutarčių projektų standartines sąlygas pagal Civilinio kodekso 6.228⁴ straipsnį (šaltinyje – „6.2284“) dviem atvejais: gavusi verslininko motyvuotą prašymą arba kitais įstatymų nustatytais atvejais.
+35² straipsnis įveda išankstinį (ex ante) vartojimo sutarčių standartinių sąlygų vertinimą. 1 dalis nustato, kad Valstybinė vartotojų teisių apsaugos tarnyba tikrina viešųjų vartojimo sutarčių projektų standartines sąlygas pagal Civilinio kodekso 6.228⁴ straipsnį dviem atvejais: gavusi verslininko motyvuotą prašymą arba kitais įstatymų nustatytais atvejais.
 
 Instituto esmė – leisti verslininkui dar prieš pradedant naudoti standartines sąlygas gauti Tarnybos vertinimą ir taip sumažinti vėlesnio ginčo, 35¹ straipsnio procedūros ir 40 straipsnio 2 dalies sankcijų riziką. Vartotojams tai naudinga tuo, kad nesąžiningos sąlygos gali būti pašalintos dar prieš joms patenkant į sutartis. Antrasis atvejis („kitais įstatymų nustatytais atvejais“) leidžia specialiaisiais įstatymais nustatyti privalomą išankstinį vertinimą tam tikrose srityse.
 
